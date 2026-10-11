@@ -1,0 +1,1 @@
+VALUE = "benign interoperability fixture"

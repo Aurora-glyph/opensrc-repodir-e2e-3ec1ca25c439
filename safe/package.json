@@ -1,0 +1,15 @@
+{
+  "name": "opensrc-repodir-e2e-3ec1ca25c439",
+  "version": "1.0.0",
+  "description": "Benign package-metadata interoperability fixture",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aurora-glyph/opensrc-repodir-e2e-3ec1ca25c439.git",
+    "directory": "safe\n--opensrc-poc-arg-one\n--opensrc-poc-arg-two"
+  },
+  "files": [
+    "README.md",
+    "test.py"
+  ],
+  "license": "MIT"
+}
